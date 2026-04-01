@@ -1,0 +1,7 @@
+¿Qué servicio permite convertir nombres en direcciones IP?
+
+Seria el servicio de DNS, debido a que el DNS traduce el nombre de la pagina que buscamos por ejemplo a una dirección ip por ejemplo a 142.250.190.14
+
+¿Qué protocolo permite transferir páginas web? 
+
+Seria el protoco HTTP este protocolo lo que hace es que usa nuestro navegador para comunicarse con los servidores de la web y el protocolo mas seguro seria HTTPS que seria lo mismo pero cifrado.
